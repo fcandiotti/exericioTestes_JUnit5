@@ -5,7 +5,7 @@
 - Java 11
 - JUnit vanilla
 
-### Resumo dos testes:
+### Resumo aplicação:
 
 Um financiamento possui três dados:
 - totalAmont: valor total de dinheiro financiado
