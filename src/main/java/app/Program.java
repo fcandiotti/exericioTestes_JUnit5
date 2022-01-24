@@ -1,6 +1,6 @@
-package src.app;
+package app;
 
-import src.entities.Financing;
+import entities.Financing;
 
 public class Program {
 
